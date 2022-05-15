@@ -1,0 +1,28 @@
+@import "style-zero.css";
+body{
+    background-color: #1B1D1F;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: font-family: 'Montserrat', sans-serif;
+    
+}
+div{
+ width: 573px;
+ 
+ background-color:#ffffff;
+ margin:268px auto;
+ padding-bottom: 56px;
+ 
+}
+h2{
+   font-size: 24px;
+}
+img{
+    margin:32px;
+}
+.text-desk{
+    
+    margin-top: 12px;
+}
