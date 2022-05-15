@@ -12,6 +12,7 @@ body{
     margin: 0 auto;
     font-size: 16px;
     position: relative;
+    padding-bottom: 72px;
 }
 header{
     
@@ -88,12 +89,14 @@ header{
     text-align: center;
     height: 942px;
     padding: 52px 104px 72px 95px;
+
 }
 
 .cards li{
     display: inline-block;
     width: 374px;
     height: 538px;
+    margin-right: 10px;
     
 }
 .card-text{
@@ -122,4 +125,5 @@ h2{
     width:1170px;
     height: 376px;
     background:linear-gradient(90deg,#FFFFFF,#C1E8FF);
+    margin: 0 auto;
 }
