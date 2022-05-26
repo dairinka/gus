@@ -22,14 +22,11 @@ body{
     
 }
 header{
-    
-    margin-left: 95px;
-    margin-top: 32px;
-    width: 241px;
-    height: 120px;
+ 
     position: absolute;
     z-index: 1;
-  
+    top: 33px;
+    left:95px;
 }
 
 #logo-text{
@@ -100,7 +97,7 @@ header{
     width: 374px;
     height: 538px;
     margin-right: 10px;
-    
+    vertical-align: middle;
 }
 .card-text{
     padding-right: 47px;
