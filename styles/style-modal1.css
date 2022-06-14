@@ -36,6 +36,12 @@ input[type = "text"]{
     border-radius: 8px;
     border: 1px solid #005BBB;
 }
+input:focus, 
+input:hover,
+input:active{
+    border: 1px solid #005BBB;
+    background-color: rgb(195, 220, 248);
+}
 label{
     display: block;
     margin-left: 99px;
